@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Lucas
+=======
+
+Ferreira
+>>>>>>> ex11b
